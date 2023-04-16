@@ -24,7 +24,7 @@
 - [Vite](https://vitejs.dev/)
 - [Styled Components](https://styled-components.com/docs)
 - [React Hook Form](https://react-hook-form.com/)
-- [Json Servern](https://github.com/typicode/json-server)
+- [Json Server](https://github.com/typicode/json-server)
 
 ---
 
